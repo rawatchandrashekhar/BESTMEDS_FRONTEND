@@ -1,0 +1,25 @@
+.hoverEffect:hover{
+    transform: scale(1.3);
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.hoverEffectCoupon:hover{
+    transform: scale(1.04);
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.threeDots{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 250px;
+}
+
+.threeDotsCart{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 250px;
+}
